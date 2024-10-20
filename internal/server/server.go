@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ryohare/ci-cd-testing/internal/handler"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
+	"github.com/ryohare/ci-cd-testing/internal/handler"
 )
 
 const (
