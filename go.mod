@@ -1,4 +1,4 @@
-module github.com/mchmarny/s3cme
+module github.com/ryohare/ci-cd-testing
 
 go 1.21
 

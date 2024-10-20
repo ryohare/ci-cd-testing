@@ -12,7 +12,7 @@ jobs:
   conf:
     env:
       # Update as needed
-      IMG_NAME: s3cme
+      IMG_NAME: ci-cd-testing
       GO_VERSION: '1.21.6'
       COSIGN_VERSION: v2.2.2
       ERR_VULNERABILITY_SEV: 'CRITICAL,HIGH,MEDIUM'

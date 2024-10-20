@@ -24,7 +24,7 @@ spec:
                 - Pod
       verifyImages:
         - imageReferences:
-            - "ghcr.io/mchmarny/s3cme:v*"
+            - "ghcr.io/ryohare/ci-cd-testing:v*"
           attestations:
             - predicateType: https://slsa.dev/provenance/v0.2
               attestors:
